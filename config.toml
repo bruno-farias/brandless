@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://brandless.netlify.app/"
 title        = "Brandless Guru blog "
 languageCode = "en-us"
 theme        = "hello-friend-ng"
